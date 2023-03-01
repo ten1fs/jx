@@ -3,4 +3,6 @@
 > 使用说明
 > ?url=视频地址
 >
-> 例如：?url=https://www.bilibili.com/bangumi/play/ep328482
+> 例如：
+>
+> https://ten1fs.github.io/jx?url=https://www.bilibili.com/bangumi/play/ep328482
